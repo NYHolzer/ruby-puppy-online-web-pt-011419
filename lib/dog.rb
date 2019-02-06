@@ -11,6 +11,6 @@ class Dog
   end 
   
   def self.all
-    @@all.to_s
+    @@all
   end 
 end 
